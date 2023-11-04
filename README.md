@@ -11,3 +11,5 @@ Este es un mensaje completamente desde Github
 
 ### Actualizado desde la versión Web de VsCode.
 Cómo te dedas?
+
+.y también desde el móvil 
